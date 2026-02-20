@@ -1,2 +1,2 @@
-# C++-Programming
-Contains both Charusat Uni  Practical Problems and also slight about projects 
+Pro-Co 
+Contains all Programming practical problems of charusat 
